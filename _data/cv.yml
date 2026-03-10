@@ -1,10 +1,10 @@
 cv:
-  name: Albert Einstein
+  name: Jesús Falcón-Barroso
   label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  email: jesus.falcon.barroso@iac.es
+  location: Instituto de Astrofísica de Canarias
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: ...
 
   social_networks:
     - network: X
@@ -15,26 +15,26 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Calle Vía Láctea S/n
+    city: San Cristobal de La Laguna
+    region: Canary Islands
+    postalCode: 38005
+    countryCode: Spain
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
+      - institution: Universidad de Nottingham
+        location: Nottingham, United Kingdom
         url: https://www.uzh.ch/
-        area: Physics
+        area: Astronomy
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 1999
+        end_date: 2003
         score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        # courses: "Theory of Relativity"
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
