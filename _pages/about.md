@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Instituto de Astrofísica de Canarias
 
 profile:
   align: right
   image: jfalcon.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Instituto de Astrofísica de Canarias</p>
-    <p>Calle Vía Láctea s/n<p>
-    <p>E38205. La Laguna. Tenerife. Spain</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
