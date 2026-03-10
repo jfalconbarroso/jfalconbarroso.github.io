@@ -1,6 +1,6 @@
 cv:
   name: Jesús Falcón-Barroso
-  label: Scientist
+  label: Associate Professor / Investigador Científico de OPI
   email: jesus.falcon.barroso@iac.es
   location: Instituto de Astrofísica de Canarias
   image: ""
@@ -10,13 +10,13 @@ cv:
     - network: X
       username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: jfalconbarroso
     - network: LinkedIn
-      username: example
+      username: jesus-falcon-barroso-66134441
 
   address:
     street: Calle Vía Láctea S/n
-    city: San Cristobal de La Laguna
+    city: La Laguna
     region: Canary Islands
     postalCode: 38005
     countryCode: Spain
