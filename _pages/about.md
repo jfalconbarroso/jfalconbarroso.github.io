@@ -27,8 +27,7 @@ I am an astrophysicist studying how galaxies form, assemble, and evolve across c
 
 I have authored more than **260 peer-reviewed publications** with over **25,000 citations**, including several papers among the most highly cited studies in galaxy formation. My work contributes to a broader effort to understand the mechanisms that regulate galaxy assembly and the interplay between **stellar dynamics, star formation, and chemical evolution**.
 
-I am also the PI of the <a href="https://astra.iac.es/project/weave-apertif/">WEAVE-Apertif</a> project.
-
+I am also the PI of the <a href="https://astra.iac.es/project/weave-apertif/">WEAVE-Apertif</a> project, a specifically designed survey to transform our understanding the evolution of nearby galaxies, by combining spatially resolved optical spectroscopy with high-fidelity HI mapping across a statistically powerful and structurally diverse sample.
 
 <!-- I am an astrophysicist studying how galaxies form, assemble, and evolve across cosmic time. My research combines **integral-field spectroscopy, stellar population analysis, and galaxy dynamics** to understand how the internal motions of stars and gas relate to the chemical and structural evolution of galaxies.
 
