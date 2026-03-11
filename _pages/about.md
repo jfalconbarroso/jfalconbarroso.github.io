@@ -7,8 +7,8 @@ subtitle: Associate Professor at the  <a href='https://www.iac.es'>Instituto de 
 profile:
   align: right
   image: jfalcon_round.png
-  image_circular: true # crops the image to make it circular
-  more_info:
+  image_circular: false # crops the image to make it circular
+  more_info: jesus.falcon.barroso@iac.es
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
