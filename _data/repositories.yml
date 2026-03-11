@@ -6,6 +6,6 @@ repo_description_lines_max: 2
 
 github_repos:
   - jfalconbarroso/BAYES-LOSVD
-  - dynamics-of-stellar-systems/dynamite
+  # - dynamics-of-stellar-systems/dynamite
   # - inavarro/fastar
   # - amolaeinezhad/PyAPS
