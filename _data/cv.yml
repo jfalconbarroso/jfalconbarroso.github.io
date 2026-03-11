@@ -109,16 +109,16 @@ cv:
         location: La Laguna, Spain
         start_date: 2021
         end_date: present
+        # summary: 
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
 
       - company: Instituto de Astrofísica de Canarias
         position: Head of Research
         location: La Laguna, Spain
         start_date: 2021
         end_date: 2025
-        # summary: 
-        # highlights:
-        #   - Relativity
-        #   - Description 2.
 
       - company: Instituto de Astrofísica de Canarias
         position: Assistant Proffesor

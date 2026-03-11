@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Go to <a href="https://scixplorer.org/search?p=1&q=author%3A%22falcon-barroso%22&sort=score+desc&sort=date+desc&d=astrophysics">NASA/SciX</a> for the most updated list of publications.
+description: Go to <b>NASA/SciX</b> for the most updated list of publications.
 nav: true
 nav_order: 2
 ---
