@@ -104,15 +104,51 @@ cv:
         end_date: 1999
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Instituto de Astrofísica de Canarias
+        position: Associate Proffesor
+        location: La Laguna, Spain
+        start_date: 2021
+        end_date: present
+
+      - company: Instituto de Astrofísica de Canarias
+        position: Head of Research
+        location: La Laguna, Spain
+        start_date: 2021
+        end_date: 2025
+        # summary: 
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
+
+      - company: Instituto de Astrofísica de Canarias
+        position: Assistant Proffesor
+        location: La Laguna, Spain
+        start_date: 2014
+        end_date: 2021
+
+      - company: Instituto de Astrofísica de Canarias
+        position: Ramón y Cajal fellow
+        location: La Laguna, Spain
+        start_date: 2009
+        end_date: 2014
+
+      - company: European Space Agency
+        position: Research fellow
+        location: Noordwijk, NL
+        start_date: 2005
+        end_date: 2009
+
+      - company: Leiden Observatory
+        position: Postdoc of the EURO3D network
+        location: Leiden, NL
+        start_date: 2003
+        end_date: 2005
+
+      - company: University of Nottingham
+        position: Postdoc
+        location: Nottingham, UK
+        start_date: 2002
+        end_date: 2003
 
     Awards:
       - title: Group Achievement Award to the SAURON team
