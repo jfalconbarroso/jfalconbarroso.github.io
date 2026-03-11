@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Click herefor the most update list of publications.",
+          description: "Go to NASA/SciX for the most updated list of publications.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -36,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "nav-submenus",
           title: "submenus",
