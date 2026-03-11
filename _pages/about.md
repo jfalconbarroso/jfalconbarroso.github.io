@@ -6,7 +6,7 @@ subtitle: Associate Professor at the  <a href='https://www.iac.es'>Instituto de 
 
 profile:
   align: right
-  image: jfalcon_round.jpg
+  image: jfalcon_round.png
   image_circular: true # crops the image to make it circular
   more_info:
 
