@@ -11,9 +11,9 @@ nav_order: 5
 **Affiliation:** Instituto de Astrofísica de Canarias
 
 **Address:**  
-Calle Vía Láctea s/n  
-San Cristobal de La Laguna. 
-Tenerife. Canary Islands 
+Calle Vía Láctea s/n<br>
+San Cristobal de La Laguna.<br>
+Tenerife. Canary Islands.<br>
 E38205 - Spain
 
 ## Profiles
