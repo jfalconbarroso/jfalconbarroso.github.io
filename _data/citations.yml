@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-08'
 papers:
   0lOzqscAAAAJ:-DxkuPiZhfEC:
     citations: 42
@@ -50,7 +50,7 @@ papers:
     title: Globular cluster ejection, infall, and the host dark matter halo of the Pegasus dwarf galaxy
     year: '2020'
   0lOzqscAAAAJ:1qzjygNMrQYC:
-    citations: 92
+    citations: 91
     title: A near-infrared census of the multicomponent stellar structure of early-type dwarf galaxies in the Virgo cluster
     year: '2014'
   0lOzqscAAAAJ:1r-w4gtu6w8C:
@@ -58,7 +58,7 @@ papers:
     title: Bar ages derived for the first time in nearby galaxies-Insights into secular evolution from the TIMER sample
     year: '2025'
   0lOzqscAAAAJ:1sJd4Hv_s6UC:
-    citations: 26
+    citations: 25
     title: "H\u03B1 kinematics of S4G spiral galaxies \u2013 I. NGC 864"
     year: '2012'
   0lOzqscAAAAJ:1tZ8xJnm2c8C:
@@ -109,6 +109,10 @@ papers:
     citations: 0
     title: 'smarty: The MILES moderate resolution near-infrared stellar library'
     year: '2024'
+  0lOzqscAAAAJ:3A3nxV7CjKIC:
+    citations: 0
+    title: Tracing kinematic (mis) alignments in CALIFA merging galaxies-Stellar and ionized gas kinematic orientations at every merger stage
+    year: Unknown Year
   0lOzqscAAAAJ:3bvyWxjaHKcC:
     citations: 11
     title: Bottom-heavy initial mass function in a nearby compact l {star} galaxy.
@@ -250,7 +254,7 @@ papers:
     title: Minor axis kinematics of 19 S0-Sbc bulges
     year: '2003'
   0lOzqscAAAAJ:8xutWZnSdmoC:
-    citations: 19
+    citations: 20
     title: 'GANDALF: Gas AND Absorption Line Fitting'
     year: '2017'
   0lOzqscAAAAJ:9DLIHnF0jcYC:
@@ -262,11 +266,11 @@ papers:
     title: "The impact of bars on the properties of H\u2009ii regions in the TIMER survey"
     year: '2026'
   0lOzqscAAAAJ:9Nmd_mFXekcC:
-    citations: 45
+    citations: 46
     title: "Dissecting galactic bulges in space and time\u2013I. The importance of early formation scenarios versus secular evolution"
     year: '2015'
   0lOzqscAAAAJ:9ZlFYXVOiuMC:
-    citations: 84
+    citations: 85
     title: Dissecting early-type dwarf galaxies into their multiple components
     year: '2012'
   0lOzqscAAAAJ:9shLKfS_uJEC:
@@ -278,7 +282,7 @@ papers:
     title: 'J-PAS: the Javalambre-physics of the accelerated universe astrophysical survey'
     year: '2014'
   0lOzqscAAAAJ:9yKSN-GCB0IC:
-    citations: 1017
+    citations: 1016
     title: "The SAURON project\u2013IX. A kinematic classification for early-type galaxies"
     year: '2007'
   0lOzqscAAAAJ:AHdEip9mkN0C:
@@ -382,7 +386,7 @@ papers:
     title: 'VizieR Online Data Catalog: XSL atmospheric parameters (Arentsen+, 2019)'
     year: '2019'
   0lOzqscAAAAJ:ClCfbGk0d_YC:
-    citations: 86
+    citations: 87
     title: 'MILES extended: Stellar population synthesis models from the optical to the infrared'
     year: '2016'
   0lOzqscAAAAJ:D03iK_w7-QYC:
@@ -406,7 +410,7 @@ papers:
     title: 'An archaeological approach: The role of dark matter halos in shaping galaxy star formation histories as told by absorption spectra'
     year: '2022'
   0lOzqscAAAAJ:D_sINldO8mEC:
-    citations: 148
+    citations: 147
     title: Nebular emission and the Lyman continuum photon escape fraction in CALIFA early-type galaxies
     year: '2013'
   0lOzqscAAAAJ:Dem6FJhTUoYC:
@@ -414,7 +418,7 @@ papers:
     title: 'The Fornax Deep Survey (FDS) with VST: VI. Optical properties of the dwarf galaxies in the Fornax cluster (Corrigendum)'
     year: '2020'
   0lOzqscAAAAJ:Dip1O2bNi0gC:
-    citations: 167
+    citations: 163
     title: Characterizing the environments of supernovae with MUSE
     year: '2016'
   0lOzqscAAAAJ:DkZNVXde3BIC:
@@ -458,7 +462,7 @@ papers:
     title: 'VizieR Online Data Catalog: Merging galaxies (mis) alignments (Barrera-Ballesteros+, 2015)'
     year: '2016'
   0lOzqscAAAAJ:FiDNX6EVdGUC:
-    citations: 62
+    citations: 61
     title: The Fornax Deep Survey with VST-IX. Catalog of sources in the FDS area with an example study for globular clusters and background galaxies
     year: '2020'
   0lOzqscAAAAJ:G1UMdFYMoxkC:
@@ -518,7 +522,7 @@ papers:
     title: 'VizieR Online Data Catalog: MILES base models & new line index system (Vazdekis+, 2010)'
     year: '2010'
   0lOzqscAAAAJ:HtEfBTGE9r8C:
-    citations: 103
+    citations: 104
     title: IMF shape constraints from stellar populations and dynamics from CALIFA
     year: '2016'
   0lOzqscAAAAJ:I858iXPj1OkC:
@@ -526,11 +530,11 @@ papers:
     title: "Glenn van de Ven, 5 Reynier Peletier, 6 Eric Emsellem, 2 Eva K. Grebel, 1 Francesco La Barbera, 7 Joachim Janz, 8, 9 Agnieszka Sybilska, 10 Rukmani Vijayaraghavan, 11 John \u2026"
     year: '2020'
   0lOzqscAAAAJ:ILKRHgRFtOwC:
-    citations: 74
+    citations: 73
     title: "Stellar population synthesis models between 2.5 and 5 \u03BCm based on the empirical IRTF stellar library"
     year: '2015'
   0lOzqscAAAAJ:IRz6iEL74y4C:
-    citations: 606
+    citations: 607
     title: 'UV-extended E-MILES stellar population models: young components in massive early-type galaxies'
     year: '2016'
   0lOzqscAAAAJ:IUKN3-7HHlwC:
@@ -546,7 +550,7 @@ papers:
     title: CAVITY, Calar Alto Void Integral-field Treasury surveY and project extension
     year: '2024'
   0lOzqscAAAAJ:IjCSPb-OGe4C:
-    citations: 1327
+    citations: 1328
     title: "Evolutionary stellar population synthesis with MILES\u2013I. The base models and a new line index system"
     year: '2010'
   0lOzqscAAAAJ:IsPWOBWtZBwC:
@@ -594,11 +598,11 @@ papers:
     title: "The hELENa project\u2013I. Stellar populations of early-type galaxies linked with local environment and galaxy mass"
     year: '2017'
   0lOzqscAAAAJ:KlAtU1dfN6UC:
-    citations: 1003
+    citations: 1002
     title: An updated MILES stellar library and stellar population models
     year: '2011'
   0lOzqscAAAAJ:L1USKYWJimsC:
-    citations: 40
+    citations: 39
     title: 'The Fornax Deep Survey with the VST: VII. Evolution and structure of late type galaxies inside the virial radius of the Fornax cluster'
     year: '2019'
   0lOzqscAAAAJ:L7CI7m0gUJcC:
@@ -610,7 +614,7 @@ papers:
     title: A SAURON look at galaxy bulges
     year: '2004'
   0lOzqscAAAAJ:LI9QrySNdTsC:
-    citations: 186
+    citations: 187
     title: "IMF\u2013metallicity: a tight local relation revealed by the CALIFA survey"
     year: '2015'
   0lOzqscAAAAJ:LK8CI43ZvvMC:
@@ -626,7 +630,7 @@ papers:
     title: Survival of molecular gas in a stellar feedback-driven outflow witnessed with the MUSE TIMER project and ALMA
     year: '2019'
   0lOzqscAAAAJ:LgRImbQfgY4C:
-    citations: 331
+    citations: 330
     title: 'J-plus: The javalambre photometric local universe survey'
     year: '2019'
   0lOzqscAAAAJ:LjlpjdlvIbIC:
@@ -658,7 +662,7 @@ papers:
     title: "Johnson, BD\u2013167 Johnston, EJ\u2013225 Jones, T.\u2013247 Jose, J.\u2013200 Juneau, S.\u2013362"
     year: Unknown Year
   0lOzqscAAAAJ:MLfJN-KU85MC:
-    citations: 316
+    citations: 315
     title: Resolving galaxies in time and space-I. Applying STARLIGHT to CALIFA datacubes
     year: '2013'
   0lOzqscAAAAJ:MXK_kJrjxJIC:
@@ -690,7 +694,7 @@ papers:
     title: The Interstellar Medium, Star Formation, Active and Inactive Nuclei of the Nearby Early-Type Galaxy Sample SAURON
     year: '2008'
   0lOzqscAAAAJ:NaGl4SEjCO4C:
-    citations: 93
+    citations: 92
     title: "MIUSCAT: extended MILES spectral coverage\u2013II. Constraints from optical photometry"
     year: '2012'
   0lOzqscAAAAJ:NhqRSupF_l8C:
@@ -714,7 +718,7 @@ papers:
     title: 'VizieR Online Data Catalog: CALIFA ETGs spatially resolved stellar pop.(Zibetti+, 2020)'
     year: '2020'
   0lOzqscAAAAJ:OP4eGU-M3BUC:
-    citations: 35
+    citations: 34
     title: Young, metal-enriched cores in early-type dwarf galaxies in the Virgo cluster based on colour gradients
     year: '2017'
   0lOzqscAAAAJ:OTTXONDVkokC:
@@ -726,7 +730,7 @@ papers:
     title: Stellar Populations of Kinematically Decoupled Cores in E/S0 Galaxiesxref ref-type=" fn" rid=" fn1"># 8224
     year: '2006'
   0lOzqscAAAAJ:OcBU2YAGkTUC:
-    citations: 98
+    citations: 97
     title: 'The Fornax Deep Survey with VST. II. Fornax A: A Two-phase Assembly Caught in the Act'
     year: '2017'
   0lOzqscAAAAJ:Og1tA8FjbJAC:
@@ -750,7 +754,7 @@ papers:
     title: Simulation-based inference of the stellar mass assembly history of galaxies from IFU observations
     year: '2022'
   0lOzqscAAAAJ:PR6Y55bgFSsC:
-    citations: 91
+    citations: 92
     title: Stellar kinematics and structural properties of Virgo cluster dwarf early-type galaxies from the SMAKCED Project. III. Angular momentum and constraints on formation scenarios
     year: '2015'
   0lOzqscAAAAJ:PVgj2kMGcgYC:
@@ -774,7 +778,7 @@ papers:
     title: 'Disentangling the formation history of galaxies via population-orbit superposition: method validation'
     year: '2020'
   0lOzqscAAAAJ:QD3KBmkZPeQC:
-    citations: 153
+    citations: 151
     title: The fornax deep survey with the vst-iv. a size and magnitude limited catalog of dwarf galaxies in the area of the fornax cluster
     year: '2018'
   0lOzqscAAAAJ:QIV2ME_5wuYC:
@@ -918,7 +922,7 @@ papers:
     title: Discovery of an active galactic nucleus driven molecular outflow in the local early-type galaxy NGC 1266
     year: '2011'
   0lOzqscAAAAJ:UmS_249rOGwC:
-    citations: 95
+    citations: 94
     title: Diversity of nuclear star cluster formation mechanisms revealed by their star formation histories
     year: '2021'
   0lOzqscAAAAJ:UuEBAcK4md4C:
@@ -930,7 +934,7 @@ papers:
     title: The pattern speeds of NGC 6946
     year: '2008'
   0lOzqscAAAAJ:V3AGJWp-ZtQC:
-    citations: 420
+    citations: 419
     title: The nature of LINER galaxies:-Ubiquitous hot old stars and rare accreting black holes
     year: '2013'
   0lOzqscAAAAJ:VLnqNzywnoUC:
@@ -942,7 +946,7 @@ papers:
     title: 'VizieR Online Data Catalog: Fornax 3D project. Globular clusters (Fahrion+, 2020)'
     year: '2020'
   0lOzqscAAAAJ:VOx2b1Wkg3QC:
-    citations: 360
+    citations: 362
     title: "SPIDER VIII\u2013constraints on the stellar initial mass function of early-type galaxies from a variety of spectral features"
     year: '2013'
   0lOzqscAAAAJ:VRfTbSk87rEC:
@@ -963,7 +967,7 @@ papers:
     year: '2022'
   0lOzqscAAAAJ:W2uZP3ddy8sC:
     citations: 1
-    title: "Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster-IV. A study of the globular cluster population in four ultra \u2026"
+    title: "Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster: IV. A study of the globular cluster population in four ultra \u2026"
     year: '2026'
   0lOzqscAAAAJ:W7OEmFMy1HYC:
     citations: 407
@@ -1002,7 +1006,7 @@ papers:
     title: 'VizieR Online Data Catalog: CALIFA DR2 (Garcia-Benito+, 2015)'
     year: '2015'
   0lOzqscAAAAJ:WbkHhVStYXYC:
-    citations: 69
+    citations: 70
     title: "Virgo cluster and field dwarf ellipticals in 3D\u2013I. On the variety of stellar kinematic and line-strength properties"
     year: '2013'
   0lOzqscAAAAJ:Wp0gIr-vW9MC:
@@ -1070,7 +1074,7 @@ papers:
     title: 'Stellar mass-metallicity relation throughout the large-scale structure of the Universe: CAVITY mother sample'
     year: '2023'
   0lOzqscAAAAJ:YlPif8NxrbYC:
-    citations: 75
+    citations: 76
     title: Modelling simple stellar populations in the near-ultraviolet to near-infrared with the X-shooter Spectral Library (XSL)
     year: '2022'
   0lOzqscAAAAJ:YohjEiUPhakC:
@@ -1130,7 +1134,7 @@ papers:
     title: 'VizieR Online Data Catalog: Stellar kinematics in CALIFA survey (Falcon-Barroso+, 2017)'
     year: '2017'
   0lOzqscAAAAJ:_Qo2XoVZTnwC:
-    citations: 387
+    citations: 386
     title: "MIUSCAT: extended MILES spectral coverage\u2013I. Stellar population synthesis models"
     year: '2012'
   0lOzqscAAAAJ:__bU50VfleQC:
@@ -1159,7 +1163,7 @@ papers:
     year: '2007'
   0lOzqscAAAAJ:aEW5N-EHWIMC:
     citations: 0
-    title: 'Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster-V. Integrated stellar population properties'
+    title: 'Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster: V. Integrated stellar population properties'
     year: '2026'
   0lOzqscAAAAJ:aIdbFUkbNIkC:
     citations: 0
@@ -1214,7 +1218,7 @@ papers:
     title: 'VizieR Online Data Catalog: X-Shooter Spectral Library (XSL). DR2 (Gonneau+, 2020)'
     year: '2020'
   0lOzqscAAAAJ:d1gkVwhDpl0C:
-    citations: 1050
+    citations: 1049
     title: "The SAURON project\u2014V. Integral-field emission-line kinematics of 48 elliptical and lenticular galaxies"
     year: '2006'
   0lOzqscAAAAJ:dAp6zn-oMfAC:
@@ -1346,7 +1350,7 @@ papers:
     title: 'Vizier online data catalog: Stellar atmospheric parameters in miles library (cenarro+, 2007)'
     year: '2007'
   0lOzqscAAAAJ:hCrLmN-GePgC:
-    citations: 340
+    citations: 337
     title: CALIFA, the calar alto legacy integral field area survey-iv. third public data release
     year: '2016'
   0lOzqscAAAAJ:hFOr9nPyWt4C:
@@ -1418,7 +1422,7 @@ papers:
     title: The SAURON Survey of Early-Type Galaxies in the Nearby Universe
     year: '2001'
   0lOzqscAAAAJ:j8SEvjWlNXcC:
-    citations: 150
+    citations: 146
     title: Nearby supernova host galaxies from the CALIFA Survey-I. Sample, data analysis, and correlation to star-forming regions
     year: '2014'
   0lOzqscAAAAJ:jE2MZjpN3IcC:
@@ -1450,7 +1454,7 @@ papers:
     title: "Virgo cluster and field dwarf ellipticals in 3D\u2013III. Spatially and temporally resolved stellar populations"
     year: '2015'
   0lOzqscAAAAJ:kF1pexMAQbMC:
-    citations: 44
+    citations: 43
     title: The Fornax Deep Survey with VST-X. The assembly history of the bright galaxies and intra-group light in the Fornax A subgroup
     year: '2020'
   0lOzqscAAAAJ:kJDgFkosVoMC:
@@ -1462,7 +1466,7 @@ papers:
     title: "The Near-Infrared Ca II Triplet-\u03C3 Relation for Bulges of Spiral Galaxies"
     year: '2003'
   0lOzqscAAAAJ:kRWSkSYxWN8C:
-    citations: 734
+    citations: 730
     title: 'The O3N2 and N2 abundance indicators revisited: improved calibrations based on CALIFA and Te-based literature data'
     year: '2013'
   0lOzqscAAAAJ:kUhpeDhEZMUC:
@@ -1470,7 +1474,7 @@ papers:
     title: 'The Fornax3D project: Planetary nebulae catalogue and independent distance measurements to Fornax cluster galaxies'
     year: Unknown Year
   0lOzqscAAAAJ:kWvqk_afx_IC:
-    citations: 30
+    citations: 29
     title: "Kinematic analysis of eagle simulations: evolution of \u03BBRe and its connection with mergers and gas accretion"
     year: '2020'
   0lOzqscAAAAJ:k_IJM867U9cC:
@@ -1514,7 +1518,7 @@ papers:
     title: Making robust ML models trained on simulations with different sub-grid physics
     year: '2023'
   0lOzqscAAAAJ:lgwcVrK6X84C:
-    citations: 88
+    citations: 87
     title: The Fornax Deep Survey with the VST-V. Exploring the faintest regions of the bright early-type galaxies inside the virial radius
     year: '2019'
   0lOzqscAAAAJ:lvd772isFD0C:
@@ -1590,7 +1594,7 @@ papers:
     title: 'Optimizing the analysis of emission lines in galaxies: the case of the MUSE TIMER galaxy NGC 613'
     year: '2025'
   0lOzqscAAAAJ:olpn-zPbct0C:
-    citations: 266
+    citations: 265
     title: 'The star formation history of CALIFA galaxies: Radial structures'
     year: '2014'
   0lOzqscAAAAJ:orDZ08hpP44C:
@@ -1626,7 +1630,7 @@ papers:
     title: The Stellar Kinematics of Extragalactic Bulges
     year: '2016'
   0lOzqscAAAAJ:pqnbT2bcN3wC:
-    citations: 19
+    citations: 18
     title: "The SAURON project\u2013XXI. The spatially resolved UV\u2013line strength relations of early-type galaxies"
     year: '2012'
   0lOzqscAAAAJ:prdVHNxh-e8C:
@@ -1750,7 +1754,7 @@ papers:
     title: Distinct stellar populations in the inner bars of double-barred galaxies
     year: '2013'
   0lOzqscAAAAJ:tkaPQYYpVKoC:
-    citations: 63
+    citations: 64
     title: "Stellar kinematics and structural properties of virgo cluster dwarf early-type galaxies from the SMAKCED project. I. Kinematically decoupled cores and implications for infallen \u2026"
     year: '2014'
   0lOzqscAAAAJ:tuHXwOkdijsC:
@@ -1760,13 +1764,13 @@ papers:
   0lOzqscAAAAJ:tz746QTLzJkC:
     citations: 0
     title: Disc growth and vertical heating of lenticular galaxies in the Fornax cluster
-    year: '2026'
+    year: '2025'
   0lOzqscAAAAJ:u-coK7KVo8oC:
     citations: 103
     title: The stellar orbit distribution in present-day galaxies inferred from the CALIFA survey
     year: '2018'
   0lOzqscAAAAJ:u-x6o8ySG0sC:
-    citations: 1936
+    citations: 1935
     title: Medium-resolution Isaac Newton Telescope library of empirical spectra
     year: '2006'
   0lOzqscAAAAJ:u5HHmVD_uO8C:
@@ -1830,7 +1834,7 @@ papers:
     title: Kinematics & stellar populations of nearby bulges
     year: '2003'
   0lOzqscAAAAJ:vbGhcppDl1QC:
-    citations: 443
+    citations: 445
     title: "Evolutionary stellar population synthesis with MILES\u2013II. Scaled-solar and \u03B1-enhanced models"
     year: '2015'
   0lOzqscAAAAJ:w0F2JDEymm0C:
@@ -1838,7 +1842,7 @@ papers:
     title: 'The SAURON Project - XIV. No escape from V: a global and local parameter in early-type galaxy evolution'
     year: '2009'
   0lOzqscAAAAJ:wKETBy42zhYC:
-    citations: 103
+    citations: 101
     title: 'The Fornax Deep Survey (FDS) with VST: VI. Optical properties of the dwarf galaxies in the Fornax cluster'
     year: '2019'
   0lOzqscAAAAJ:wMgC3FpKEyYC:
@@ -1846,7 +1850,7 @@ papers:
     title: 'Time Inference with MUSE in Extragalactic Rings (TIMER): properties of the survey and high-level data products'
     year: '2019'
   0lOzqscAAAAJ:wSy_KLzO7YEC:
-    citations: 23
+    citations: 22
     title: 'The GECKOS survey: Identifying kinematic sub-structures in edge-on galaxies'
     year: '2025'
   0lOzqscAAAAJ:wbdj-CoPYUoC:
