@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-21'
 papers:
   0lOzqscAAAAJ:-DxkuPiZhfEC:
     citations: 46
@@ -30,7 +30,7 @@ papers:
     title: 'Resolving galaxies in time and space: Applying STARLIGHT to CALIFA data cubes'
     year: '2014'
   0lOzqscAAAAJ:0N-VGjzr574C:
-    citations: 282
+    citations: 281
     title: Spatially resolved star formation main sequence of galaxies in the CALIFA survey
     year: '2016'
   0lOzqscAAAAJ:0aBXIfxlw9sC:
@@ -78,7 +78,7 @@ papers:
     title: Scaling relations in early-type galaxies from integral-field stellar kinematics
     year: '2009'
   0lOzqscAAAAJ:2osOgNQ5qMEC:
-    citations: 762
+    citations: 761
     title: "The SAURON project \u2013 X. The orbital anisotropy of elliptical and lenticular galaxies: revisiting the (V/\u03C3, \u025B) diagram with integral-field stellar kinematics"
     year: '2007'
   0lOzqscAAAAJ:2tRrZ1ZAMYUC:
@@ -210,7 +210,7 @@ papers:
     title: Stellar Kinematics and Structural Properties of Virgo Cluster Dwarf Early-Type Galaxies from the SMAKCED Project III. Rotation versus Pressure Support
     year: '2014'
   0lOzqscAAAAJ:7Frjd3zlGBUC:
-    citations: 5
+    citations: 6
     title: 'Extragalactic Archaeology: The Assembly History of Galaxies from Dynamical and Stellar Population Models'
     year: '2025'
   0lOzqscAAAAJ:7H_MAutzIkAC:
@@ -326,7 +326,7 @@ papers:
     title: 'Dwarf ellipticals in the eye of SAURON: dynamical & stellar population analysis in 3D'
     year: '2014'
   0lOzqscAAAAJ:AzKEL7Gb_04C:
-    citations: 286
+    citations: 287
     title: 'The wide-field, multiplexed, spectroscopic facility WEAVE: Survey design, overview, and simulated implementation'
     year: '2024'
   0lOzqscAAAAJ:BAanoTsO0WEC:
@@ -698,7 +698,7 @@ papers:
     title: 'Fornax 3D project: Automated detection of planetary nebulae in the centres of early-type galaxies and first results'
     year: '2020'
   0lOzqscAAAAJ:NMlhSUseqAsC:
-    citations: 29
+    citations: 30
     title: 'The Fornax3D project: Environmental effects on the assembly of dynamically cold disks in Fornax cluster galaxies'
     year: '2023'
   0lOzqscAAAAJ:NMxIlDl6LWMC:
@@ -930,7 +930,7 @@ papers:
     title: Kinematic alignment of non-interacting CALIFA galaxies
     year: Unknown Year
   0lOzqscAAAAJ:U4n9YNQMCAIC:
-    citations: 258
+    citations: 260
     title: Secular evolution of galaxies
     year: '2013'
   0lOzqscAAAAJ:ULOm3_A8WrAC:
@@ -1134,7 +1134,7 @@ papers:
     title: 'Stellar population gradients in galaxy discs from the CALIFA survey: the influence of bars'
     year: '2014'
   0lOzqscAAAAJ:ZzlSgRqYykMC:
-    citations: 117
+    citations: 118
     title: Orbital decomposition of CALIFA spiral galaxies
     year: '2018'
   0lOzqscAAAAJ:_5tno0g5mFcC:
@@ -1782,7 +1782,7 @@ papers:
     title: Disc growth and vertical heating of lenticular galaxies in the Fornax cluster
     year: '2026'
   0lOzqscAAAAJ:u-coK7KVo8oC:
-    citations: 108
+    citations: 109
     title: The stellar orbit distribution in present-day galaxies inferred from the CALIFA survey
     year: '2018'
   0lOzqscAAAAJ:u-x6o8ySG0sC:
@@ -1818,7 +1818,7 @@ papers:
     title: 'The Fornax 3D project: dust mix and gas properties in the centre of early-type galaxy FCC 167'
     year: '2019'
   0lOzqscAAAAJ:uc_IGeMz5qoC:
-    citations: 2435
+    citations: 2434
     title: 'Overview of the sdss-iv manga survey: mapping nearby galaxies at apache point observatory'
     year: '2015'
   0lOzqscAAAAJ:ufrVoPGSRksC:
@@ -1854,7 +1854,7 @@ papers:
     title: Kinematics & stellar populations of nearby bulges
     year: '2003'
   0lOzqscAAAAJ:vbGhcppDl1QC:
-    citations: 462
+    citations: 463
     title: "Evolutionary stellar population synthesis with MILES\u2013II. Scaled-solar and \u03B1-enhanced models"
     year: '2015'
   0lOzqscAAAAJ:vnF2_uLGgtgC:
